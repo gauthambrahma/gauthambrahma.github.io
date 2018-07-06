@@ -1,0 +1,22 @@
+﻿body {
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("IMG_9314.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: 39%29%;
+     background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-page-header {
+    color: white;
+    text-align: center;
+    align-self: center;
+    font-size: 440%;
+    font-style: oblique;
+}
